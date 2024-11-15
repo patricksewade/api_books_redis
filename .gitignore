@@ -1,0 +1,19 @@
+# Fichiers de configuration sensibles
+/config/redis.php
+
+# Fichiers système
+*.log
+*.cache
+
+# Fichiers générés par l'IDE
+.vscode/
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
+
+# Fichiers temporaires
+*.bak
+*.tmp
+*.swp
+*.swo
